@@ -1,8 +1,9 @@
 # RUTA-MAS-CORTA
 
-<h2>Buscar la ruta mas corta<h2>
+<h2>Buscar la ruta mas corta</h2>
 
 <p>Colocaremos el código en una función para hacer el llamado cundo sea necesario</p>
+
 <pre>
 def inicio():
 </pre>
